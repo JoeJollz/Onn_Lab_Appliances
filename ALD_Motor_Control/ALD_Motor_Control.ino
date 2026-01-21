@@ -1,3 +1,5 @@
+// need to make new code, to test each servo individually. Trial tests ensuring swagelock doesn't offset after several cycles. 
+
 #include <Servo.h>
 Servo myservo_1;
 Servo myservo_2;
